@@ -28,6 +28,7 @@ export default function Home() {
         </div>
       </div>
     DEVOPS
+    
       <div className={styles.center}>
         <Image
           className={styles.logo}
